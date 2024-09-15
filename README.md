@@ -1,10 +1,6 @@
 # Apple Stock Price Exploratory Data Analysis (EDA)
 
 
-Memory updated
-Here's a human-friendly description for your GitHub project:
-
-Apple Stock Price Exploratory Data Analysis (EDA)
 This project focuses on the exploratory data analysis (EDA) of Apple's stock prices. Through this analysis, I aim to uncover key trends, patterns, and insights from historical data that can help investors and enthusiasts better understand Apple’s stock market performance.
 
 Key Features:
