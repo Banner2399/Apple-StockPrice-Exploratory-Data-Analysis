@@ -23,7 +23,7 @@ Pandas: For data manipulation and analysis.
 
 Matplotlib & Seaborn: For creating visualizations.
 
-YFinance: To fetch real-time stock data.
+Kaggle: Data Source for analysis
 
 Why This Project?
 
