@@ -5,7 +5,7 @@ This project focuses on the exploratory data analysis (EDA) of Apple's stock pri
 
 Key Features:
 
-Data Collection: Historical stock price data of Apple from [insert data source] is used for this analysis.
+Data Collection: Historical stock price data of Apple from Kaggle is used for this analysis.
 
 Data Cleaning & Preparation: Handling missing values, formatting dates, and ensuring the data is ready for exploration.
 
